@@ -83,4 +83,4 @@ This dataset contains the following data:
 
 # Dashboard- 
 
-![mental_health_pic - Copy](https://github.com/Sumit-Baviskar/Mental-Health-Power-BI-/assets/153518735/19af0e44-2c7d-4512-a545-e0785db8bf00)
+![mental_health_pic - Copy](https://github.com/muhammedadhilp/Mental_Health_PowerBI/blob/main/mental_health.pdf)
